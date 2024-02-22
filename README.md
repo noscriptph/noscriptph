@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">I am an electrician specialized in automation, photography, 3D design and in my free time I like to go on a motorcycle</h3>
+trainee developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noscriptph&label=Profile%20views&color=0e75b6&style=flat" alt="noscriptph" /> </p>
 
