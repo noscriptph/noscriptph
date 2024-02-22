@@ -13,6 +13,8 @@
 
 - 👨‍🏭 I am a **superior technician in industrial electricity and industrial automation**
 
+- Study Telecommunication Engineering, Connectivity and Networks with Cisco certifications for 2 years (currently frozen waiting to finish other studies)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/noscript_impresiones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noscript_impresiones" height="30" width="40" /></a>
