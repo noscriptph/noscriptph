@@ -33,6 +33,7 @@ trainee developer
 -autodesk autocad
 -visual code
 -visual studio net
+-ladder
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noscriptph&show_icons=true&locale=en&layout=compact" alt="noscriptph" /></p>
 
