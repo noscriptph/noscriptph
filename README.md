@@ -14,7 +14,7 @@
 - 👨‍🏭 I am a **superior technician in industrial electricity and industrial automation**
   
 - 5 years presenting projects before the SEC (Undersecretary of Electricity and Fuels of Chile)
-- 
+  
 - I count Class B electrician certification (Chile)
 
 - Study Telecommunication Engineering, Connectivity and Networks with Cisco certifications for 2 years (currently frozen waiting to finish other studies)
