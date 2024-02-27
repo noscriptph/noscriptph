@@ -14,7 +14,7 @@ trainee developer
 
 - 👨‍🏭 I am a **superior technician in industrial electricity and industrial automation**
   
-- 5 years presenting projects before the SEC (Undersecretary of Electricity and Fuels of Chile)
+- 5 years presenting projects before the SEC (Secretary of Electricity and Fuels of Chile)
   
 - I count Class B electrician certification (Chile)
 
