@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Solar Generation Projects**
 
-- 🌱 I’m currently learning **Java and Kotlin**
+- 🌱 I’m currently learning **Java, MySQL and Kotlin**
 
 - 📫 How to reach me **paillacarelectricidad@gmail.com**
 
