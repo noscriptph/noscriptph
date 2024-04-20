@@ -39,6 +39,6 @@
 <a href="#"><img src="https://github.com/noscriptph/noscriptph/assets/103396791/7e31450e-4fc9-46b1-8a09-431f9a6488ca" height="40" />
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noscriptph&show_icons=true&locale=en&layout=compact" alt="noscriptph" /></p>
+<p><a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noscriptph&show_icons=true&locale=en&layout=compact" alt="noscriptph" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noscriptph&show_icons=true&locale=en" alt="noscriptph" /></p>
+<p>&nbsp;<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=noscriptph&show_icons=true&locale=en" alt="noscriptph" /></p>
