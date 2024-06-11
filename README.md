@@ -13,7 +13,7 @@
 
 - 👨‍🏭 I am a **superior technician in industrial electricity and industrial automation**
   
-- 5 years presenting projects before the SEC (Secretary of Electricity and Fuels of Chile)
+- 5 years presenting projects to the SEC (Secretary of Electricity and Fuels of Chile)
   
 - I count Class B electrician certification (Chile)
 
