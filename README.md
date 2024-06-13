@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=noscriptph&label=Profile%20views&color=0e75b6&style=flat" alt="noscriptph" /> </p>
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=noscriptph" alt="noscriptph" /></a> </p>
 
 - 🔭 I’m currently working on **Solar Generation Projects**
 
